@@ -9,7 +9,7 @@ inputSet:
     variables:
       - name: java_version
         type: String
-        value: "22"
+        value: "15"
       - name: Note
         type: String
         value: repo2 / dev1
