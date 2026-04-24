@@ -1,6 +1,7 @@
 inputSet:
-  name: input_set_repo2
-  identifier: input_set_repo2
+  name: input_set_repo2_dev1
+  tags: {}
+  identifier: input_set_repo2_dev1
   orgIdentifier: default
   projectIdentifier: olitest
   pipeline:
@@ -11,4 +12,4 @@ inputSet:
         value: "22"
       - name: Note
         type: String
-        value: repo2 / main
+        value: repo2 / dev1
