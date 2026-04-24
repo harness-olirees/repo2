@@ -1,0 +1,14 @@
+inputSet:
+  name: input_set_repo2
+  identifier: input_set_repo2
+  orgIdentifier: default
+  projectIdentifier: olitest
+  pipeline:
+    identifier: playtika_pl
+    variables:
+      - name: java_version
+        type: String
+        value: "9"
+      - name: Note
+        type: String
+        value: repo2 / main
